@@ -5,4 +5,4 @@ log of typed nodes (profile, question, plan, sql, table, chart, interpretation,
 conclusion, follow-up) rather than a chat transcript.
 """
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
