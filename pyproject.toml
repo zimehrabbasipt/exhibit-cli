@@ -47,9 +47,9 @@ anthropic = ["anthropic>=0.69"]
 exhibit = "exhibit.cli:app"
 
 [project.urls]
-Homepage = "https://github.com/ziwalker/AnaCLI"
-Repository = "https://github.com/ziwalker/AnaCLI"
-Issues = "https://github.com/ziwalker/AnaCLI/issues"
+Homepage = "https://github.com/ziwalker/exhibit-cli"
+Repository = "https://github.com/ziwalker/exhibit-cli"
+Issues = "https://github.com/ziwalker/exhibit-cli/issues"
 
 [tool.setuptools.packages.find]
 include = ["exhibit*"]
