@@ -1,5 +1,7 @@
 # Exhibit
 
+[![PyPI](https://img.shields.io/pypi/v/exhibit-cli)](https://pypi.org/project/exhibit-cli/) [![Python](https://img.shields.io/pypi/pyversions/exhibit-cli)](https://pypi.org/project/exhibit-cli/) [![License: BSL 1.1](https://img.shields.io/badge/license-BSL--1.1-blue)](LICENSE)
+
 An AI data-analysis CLI that treats analysis as a **persistent, resumable
 investigation** — an append-only graph of typed steps (question → plan →
 read-only SQL → result → evidence-backed conclusion), not a chat transcript.
