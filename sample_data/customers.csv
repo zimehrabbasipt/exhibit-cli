@@ -1,0 +1,121 @@
+customer_id,signup_date,tier,country,industry
+C0001,2024-01-25,Mid-Market,Germany,Healthcare
+C0002,2022-02-04,Enterprise,Australia,Healthcare
+C0003,2022-08-17,SMB,Canada,Manufacturing
+C0004,2022-11-20,Mid-Market,Germany,Healthcare
+C0005,2023-05-01,Mid-Market,Canada,Manufacturing
+C0006,2022-09-27,Mid-Market,Australia,Retail
+C0007,2022-03-22,SMB,United States,Technology
+C0008,2024-05-19,SMB,United States,Technology
+C0009,2022-07-28,Mid-Market,Canada,Retail
+C0010,2022-07-07,SMB,United States,Finance
+C0011,2022-04-03,SMB,Canada,Manufacturing
+C0012,2023-11-30,Enterprise,United Kingdom,Healthcare
+C0013,2022-04-06,Enterprise,United Kingdom,Retail
+C0014,2022-12-12,Mid-Market,Australia,Technology
+C0015,2022-08-22,Enterprise,Australia,Healthcare
+C0016,2022-01-11,SMB,Canada,Manufacturing
+C0017,2023-01-15,SMB,Australia,Retail
+C0018,2023-06-20,SMB,United Kingdom,Manufacturing
+C0019,2024-05-29,SMB,United Kingdom,Finance
+C0020,2024-06-29,Mid-Market,United Kingdom,Retail
+C0021,2024-03-22,Enterprise,Australia,Manufacturing
+C0022,2023-12-02,Enterprise,Australia,Finance
+C0023,2023-06-02,SMB,United Kingdom,Manufacturing
+C0024,2023-02-21,SMB,United States,Manufacturing
+C0025,2022-09-02,Enterprise,United States,Healthcare
+C0026,2023-09-14,Mid-Market,Australia,Manufacturing
+C0027,2023-05-23,Enterprise,United States,Finance
+C0028,2023-05-24,Mid-Market,United States,Technology
+C0029,2024-06-05,Enterprise,United States,Retail
+C0030,2022-08-12,Mid-Market,Australia,Technology
+C0031,2023-10-18,Mid-Market,Germany,Finance
+C0032,2022-11-08,Mid-Market,Canada,Manufacturing
+C0033,2024-03-01,SMB,Australia,Manufacturing
+C0034,2022-10-15,Mid-Market,Germany,Retail
+C0035,2024-06-08,SMB,United States,Manufacturing
+C0036,2022-09-26,SMB,Germany,Technology
+C0037,2024-01-30,SMB,Australia,Manufacturing
+C0038,2023-05-19,SMB,Germany,Retail
+C0039,2022-03-05,Mid-Market,Australia,Technology
+C0040,2024-02-04,Enterprise,Australia,Technology
+C0041,2023-09-28,SMB,United Kingdom,Technology
+C0042,2023-01-05,SMB,Australia,Finance
+C0043,2024-04-29,Mid-Market,Canada,Healthcare
+C0044,2023-11-17,Enterprise,United Kingdom,Finance
+C0045,2022-04-29,Mid-Market,United Kingdom,Technology
+C0046,2022-10-04,SMB,United States,Finance
+C0047,2022-04-03,SMB,United States,Retail
+C0048,2023-06-13,Enterprise,United Kingdom,Manufacturing
+C0049,2024-02-15,SMB,United Kingdom,Manufacturing
+C0050,2023-09-11,Mid-Market,Australia,Healthcare
+C0051,2024-04-04,SMB,Canada,Technology
+C0052,2023-01-27,SMB,Canada,Finance
+C0053,2022-02-11,Enterprise,United States,Technology
+C0054,2022-09-07,SMB,Australia,Healthcare
+C0055,2022-04-10,Enterprise,Canada,Healthcare
+C0056,2024-04-04,Mid-Market,Canada,Finance
+C0057,2022-12-03,SMB,United States,Healthcare
+C0058,2022-03-29,SMB,Germany,Manufacturing
+C0059,2022-04-20,SMB,Germany,Technology
+C0060,2023-02-13,SMB,Canada,Finance
+C0061,2023-10-25,Mid-Market,Germany,Technology
+C0062,2022-12-18,SMB,Australia,Manufacturing
+C0063,2023-07-02,SMB,Germany,Retail
+C0064,2023-06-08,SMB,Australia,Healthcare
+C0065,2022-11-13,SMB,United Kingdom,Retail
+C0066,2023-11-06,SMB,Germany,Retail
+C0067,2024-02-06,Enterprise,United Kingdom,Retail
+C0068,2023-03-06,SMB,United States,Healthcare
+C0069,2023-07-05,SMB,United States,Manufacturing
+C0070,2023-09-12,Mid-Market,United Kingdom,Retail
+C0071,2024-05-28,Enterprise,Canada,Technology
+C0072,2022-12-27,SMB,United States,Finance
+C0073,2023-04-25,Enterprise,Canada,Retail
+C0074,2022-07-16,SMB,Canada,Healthcare
+C0075,2023-03-21,Enterprise,Germany,Retail
+C0076,2023-05-15,Enterprise,United Kingdom,Technology
+C0077,2022-08-31,Enterprise,United Kingdom,Retail
+C0078,2022-05-25,SMB,Australia,Technology
+C0079,2023-07-11,Mid-Market,United Kingdom,Technology
+C0080,2022-12-14,Enterprise,Germany,Finance
+C0081,2022-06-10,SMB,United States,Finance
+C0082,2022-07-10,Enterprise,Australia,Manufacturing
+C0083,2022-03-17,SMB,United Kingdom,Finance
+C0084,2022-12-07,Enterprise,United States,Manufacturing
+C0085,2023-04-28,SMB,Germany,Retail
+C0086,2023-09-14,Mid-Market,Germany,Healthcare
+C0087,2023-01-13,Mid-Market,Germany,Retail
+C0088,2024-02-06,Enterprise,United Kingdom,Retail
+C0089,2024-03-10,SMB,Australia,Finance
+C0090,2023-12-31,Enterprise,Germany,Healthcare
+C0091,2023-10-11,Enterprise,Australia,Finance
+C0092,2024-02-25,SMB,Australia,Retail
+C0093,2022-11-17,Mid-Market,United States,Retail
+C0094,2023-01-18,SMB,United States,Healthcare
+C0095,2022-10-20,SMB,Germany,Finance
+C0096,2023-11-29,SMB,United States,Healthcare
+C0097,2023-07-20,Mid-Market,Germany,Healthcare
+C0098,2023-09-10,Mid-Market,Canada,Finance
+C0099,2023-07-15,Enterprise,Germany,Retail
+C0100,2024-05-23,Mid-Market,United Kingdom,Retail
+C0101,2022-01-03,SMB,Germany,Technology
+C0102,2022-04-01,SMB,Australia,Healthcare
+C0103,2022-09-04,Mid-Market,United Kingdom,Retail
+C0104,2022-08-14,SMB,United Kingdom,Technology
+C0105,2023-05-15,Enterprise,Germany,Finance
+C0106,2024-05-02,Enterprise,Canada,Healthcare
+C0107,2024-02-05,SMB,Australia,Finance
+C0108,2024-01-14,SMB,United States,Technology
+C0109,2024-01-28,Mid-Market,United Kingdom,Healthcare
+C0110,2022-10-16,SMB,Canada,Retail
+C0111,2023-05-23,SMB,United Kingdom,Healthcare
+C0112,2023-05-24,SMB,Canada,Healthcare
+C0113,2023-05-28,SMB,Canada,Finance
+C0114,2022-01-24,Mid-Market,United Kingdom,Finance
+C0115,2022-02-23,SMB,United States,Technology
+C0116,2024-02-09,Mid-Market,United States,Retail
+C0117,2022-10-04,SMB,United Kingdom,Finance
+C0118,2022-11-15,SMB,United States,Manufacturing
+C0119,2022-10-10,Enterprise,Germany,Retail
+C0120,2024-01-14,Enterprise,Germany,Retail
